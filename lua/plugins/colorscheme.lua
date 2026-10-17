@@ -8,9 +8,13 @@ return {
 
       onedark.setup({
         -- "dark", "darker", "cool", "deep", "warm", "warmer", "light"
-        -- style = "darker",
+        -- style = "dark",
+        style = "darker",
         -- style = "cool",
-        style = "deep",
+        -- style = "deep",
+        -- style = "warm",
+        -- style = "warmer",
+        -- style = "light",
       })
 
       onedark.load()
